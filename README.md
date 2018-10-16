@@ -1,2 +1,7 @@
 # SediCRUE
-1D sediment transport model for FUDAA_CRUE
+
+SediCRUE relies on **Python3** and requires packages which are non listed yet.
+
+> :warning: Still in progress.
+
+This tool is made for 1D hydraulic model.
